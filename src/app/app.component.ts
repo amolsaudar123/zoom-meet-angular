@@ -17,12 +17,12 @@ export class AppComponent implements OnInit {
   // setup your signature endpoint here: https://github.com/zoom/websdk-sample-signature-node.js
   signatureEndpoint = 'https://zoom-meet-backend.herokuapp.com/'
   apiKey = '1bezFqTOR3i6Qw1ItB3n-Q'
-  meetingNumber = 85603707644
+  meetingNumber = 86240583883
   role = 0
   leaveUrl = 'http://localhost:4200'
   userName = 'Angular'
   userEmail = 'amol@gmail.com'
-  passWord = '796462'
+  passWord = '128450'
 
   constructor(public httpClient: HttpClient, @Inject(DOCUMENT) document) {
 
