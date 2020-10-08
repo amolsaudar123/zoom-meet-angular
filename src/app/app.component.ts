@@ -19,7 +19,7 @@ export class AppComponent implements OnInit {
   apiKey = '1bezFqTOR3i6Qw1ItB3n-Q'
   meetingNumber = 85603707644
   role = 0
-  leaveUrl = 'http://localhost:4200'
+  leaveUrl = 'https://zoom-meet-backend.herokuapp.com/'
   userName = 'Angular'
   userEmail = 'amol@gmail.com'
   passWord = '796462'
